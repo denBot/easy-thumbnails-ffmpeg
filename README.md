@@ -1,0 +1,27 @@
+Synopsis
+--------
+
+A video thumbnail source generator for django `easy-thumbnails` using `ffmpeg`.
+
+Requirements
+------------
+
+* `easy_thumbnails`
+* `ffmpeg`
+
+Install
+-------
+
+Add this package to your Python path or `pip install easy-thumbnails-ffmpeg`.
+
+Add `easy_thumbnails_ffmpeg.source_generators.ffmpeg_frame` to `THUMBNAIL_SOURCE_GENERATORS` in your `settings.py`:
+
+    THUMBNAIL_SOURCE_GENERATORS = (
+        'easy_thumbnails.source_generators.pil_image', # Default
+        'easy_thumbnails_ffmpeg.source_generators.ffmpeg_frame',
+    )
+
+License
+-------
+
+CC0 1.0 Universal (Public Domain)
