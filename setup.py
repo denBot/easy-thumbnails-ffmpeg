@@ -8,7 +8,7 @@ setup(name='easy-thumbnails-ffmpeg',
     version='0.1.0',
     license='CC0 1.0',
     description='Video thumbnails source generator.',
-    long_description='Video thumbnails source generator for `easy_thumbnails` using `ffmpeg`.',
+    long_description=readme(),
     classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication',

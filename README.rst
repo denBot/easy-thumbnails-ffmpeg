@@ -1,7 +1,7 @@
 Synopsis
 --------
 
-A video thumbnail source generator for django ``easy-thumbnails`` using ``ffmpeg``.
+A video thumbnail source generator for django easy-thumbnails_ using ffmpeg_.
 
 Requirements
 ------------
@@ -25,3 +25,6 @@ License
 -------
 
 CC0 1.0 Universal (Public Domain)
+
+.. easy-thumbnails: https://github.com/SmileyChris/easy-thumbnails
+.. ffmpeg: http://www.ffmpeg.org
