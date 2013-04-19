@@ -26,5 +26,5 @@ License
 
 CC0 1.0 Universal (Public Domain)
 
-.. easy-thumbnails: https://github.com/SmileyChris/easy-thumbnails
-.. ffmpeg: http://www.ffmpeg.org
+.. _easy-thumbnails: https://github.com/SmileyChris/easy-thumbnails
+.. _ffmpeg: http://www.ffmpeg.org
