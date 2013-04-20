@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='easy-thumbnails-ffmpeg',
-    version='0.1.0',
+    version='0.1.1',
     license='CC0 1.0',
     description='Video thumbnails source generator.',
     long_description=readme(),
