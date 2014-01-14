@@ -16,6 +16,7 @@ def ffmpeg_frame(source, frame='00:00:01', **options):
     """
     Try to load a frame of the given video with ffmpeg, ignoring all errors.
     """
+    source._file.seek(0)
     data = Popen([
         'ffmpeg', '-i', '-', '-an',
         '-vcodec', 'png', '-vframes', '1',
