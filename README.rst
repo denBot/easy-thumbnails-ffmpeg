@@ -3,7 +3,8 @@ Fork Changes
 Forked from easy-thumbnails-ffmpeg by aldarund_.
 
 To install THIS version of easy-thumbnails-ffmpeg, do:
-```pip install git+https://github.com/denBot/easy-thumbnails-ffmpeg```
+
+``pip install git+https://github.com/denBot/easy-thumbnails-ffmpeg``
 
 Synopsis
 --------
