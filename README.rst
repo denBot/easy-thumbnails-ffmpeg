@@ -1,6 +1,11 @@
+
+Forked from easy-thumbnails-ffmpeg by aldarund_.
+
+To install THIS version of easy-thumbnails-ffmpeg, do:
+```pip install git+https://github.com/denBot/easy-thumbnails-ffmpeg```
+
 Synopsis
 --------
-
 A video thumbnail source generator for django easy-thumbnails_ using ffmpeg_.
 
 Requirements
@@ -28,3 +33,4 @@ CC0 1.0 Universal (Public Domain)
 
 .. _easy-thumbnails: https://github.com/SmileyChris/easy-thumbnails
 .. _ffmpeg: http://www.ffmpeg.org
+.. _aldarund https://github.com/aldarund/easy-thumbnails-ffmpeg
