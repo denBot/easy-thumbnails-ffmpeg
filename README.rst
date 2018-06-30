@@ -1,4 +1,5 @@
-
+Fork Changes
+------------
 Forked from easy-thumbnails-ffmpeg by aldarund_.
 
 To install THIS version of easy-thumbnails-ffmpeg, do:
@@ -33,4 +34,4 @@ CC0 1.0 Universal (Public Domain)
 
 .. _easy-thumbnails: https://github.com/SmileyChris/easy-thumbnails
 .. _ffmpeg: http://www.ffmpeg.org
-.. _aldarund https://github.com/aldarund/easy-thumbnails-ffmpeg
+.. _aldarund: https://github.com/aldarund/easy-thumbnails-ffmpeg
