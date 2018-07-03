@@ -4,6 +4,7 @@ from subprocess import Popen, PIPE
 from PIL import Image
 from random import choices
 from string import ascii_lowercase, ascii_uppercase
+from easy_thumbnails import utils
 
 def ffmpeg_frame(source, frame='00:00:01', **options):
 
